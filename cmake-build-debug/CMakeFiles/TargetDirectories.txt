@@ -1,0 +1,3 @@
+C:/Users/Loren/Documents/School/CSC 2330/GuessNum/cmake-build-debug/CMakeFiles/GuessNum.dir
+C:/Users/Loren/Documents/School/CSC 2330/GuessNum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loren/Documents/School/CSC 2330/GuessNum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
